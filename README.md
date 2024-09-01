@@ -27,4 +27,4 @@ Feel free to explore the projects and provide feedback or suggestions. I'm alway
 
 ### First Project
 
-[text](https://tanmaya-sahu-portfolio-74a70d.netlify.app/)
+[Click Here](https://tanmaya-sahu-portfolio-74a70d.netlify.app/)
