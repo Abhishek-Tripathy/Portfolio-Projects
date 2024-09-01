@@ -12,6 +12,7 @@ function Projects() {
          {PROJECTS.map((project) => (
             <motion.div initial={{opacity: 0,scale: 0.9,}} whileInView={{opacity: 1, scale: 1}} 
             transition={{duration: 0.5}} whileHover={{scale: 1.05}}
+            onClick={() => (window.location.href = project.githubLink)}
             key={project.id} className='group relative overflow-hidden rounded-3xl'>
                <motion.img whileHover={{scale: 1.1}}
                src={project.image} alt={project.name} 

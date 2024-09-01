@@ -29,7 +29,7 @@ function Navbar() {
 
   return (
     <div className=''>
-      <nav className='fixed left-0 right-0 top-4 z-50'>
+      <nav className='fixed left-0 right-0 top-0 z-50'>
          <div className='mx-auto hidden max-w-2xl items-center justify-center border border-stone-50/30 
          rounded-lg bg-black-/20 py-3 backdrop:-blur-lg lg:flex'>
             <div className="flex justify-between items-center gap-6">

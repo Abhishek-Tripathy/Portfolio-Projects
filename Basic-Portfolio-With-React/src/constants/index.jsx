@@ -36,14 +36,14 @@ export const NAVIGATION_LINKS = [
   { label: "Skills", href: "#skills" },
   { label: "Work Experience", href: "#work" },
   { label: "Education", href: "#education" },
-  { label: "Contact", href: "#contact" },
+  { label: "Connect", href: "#contact" },
 ];
 
 export const HERO = {
   name: "𝑻𝒂𝒏𝒎𝒂𝒚𝒂 𝑺𝒂𝒉𝒖",
   greet: "Hello there! 👋🏻",
   description:
-    "Data Analyst with over 1 year of hands-on experience and an MBA in System Management. Proficient in Python, Power BI, Excel, and SQL. Skilled in data cleaning, exploratory data analysis (EDA), predictive modeling, and advanced data visualization. Adept at delivering actionable insights to support business decisions.",
+    "Data Analyst with over 1.5 years of hands-on experience and an MBA in System Management. Proficient in Python, Power BI, Excel, and SQL. Skilled in data cleaning, exploratory data analysis (EDA), predictive modeling, and advanced data visualization. Adept at delivering actionable insights to support business decisions.",
   email: "𝘌𝘮𝘢𝘪𝘭: 𝘵𝘢𝘯𝘮𝘢𝘺𝘢𝘴𝘢𝘩𝘶8658@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮",
   phone: "𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘯𝘰.: +91 85948 11431"
 };
@@ -114,7 +114,7 @@ export const SKILLS = [
   {
     icon: <DiMysql className="text-4xl text-cyan-400 lg:text-5xl" />,
     name: "SQL",
-    experience: "1.5+ year",
+    experience: "1.5+ years",
   },
   {
     icon: <SiMicrosoftexcel className="text-4xl text-green-600 lg:text-5xl" />,
@@ -124,22 +124,22 @@ export const SKILLS = [
   {
     icon: <SiPowerbi  className="text-4xl text-yellow-400 lg:text-5xl" />,
     name: "Power Bi",
-    experience: "2+ year",
+    experience: "2+ years",
   },
   {
     icon: <SiTableau  className="text-4xl text-cyan-500 lg:text-5xl" />,
     name: "Tableau",
-    experience: "1+ years",
+    experience: "1+ year",
   },
   {
     icon: <SiNumpy   className="text-4xl text-sky-400 lg:text-5xl" />,
     name: "Numpy",
-    experience: "1.5+ year",
+    experience: "1.5+ years",
   },
   {
     icon: <SiPandas  className="text-4xl text-white lg:text-5xl" />,
     name: "Pandas",
-    experience: "1.5+ year",
+    experience: "1.5+ years",
   },
   {
     icon: <SiPytorch className="text-4xl text-red-700 lg:text-5xl" />,
@@ -149,12 +149,12 @@ export const SKILLS = [
   {
     icon: <SiRobotframework className="text-4xl text-machine lg:text-5xl" />    ,
     name: "Machine Learning",
-    experience: "1.5+ year",
+    experience: "1.5+ years",
   },
   {
     icon: <SiScikitlearn  className="text-4xl text-orange-400 lg:text-5xl" />    ,
     name: "Scikit Learn",
-    experience: "1.5+ year",
+    experience: "1.5+ years",
   },
   {
     icon: <SiStatamic className="text-4xl text-statistics lg:text-5xl" />    ,
@@ -164,12 +164,12 @@ export const SKILLS = [
   {
     icon: <SiDatabricks className="text-4xl text-stone-400 lg:text-5xl" /> ,
     name: "Data Analysis",
-    experience: "1.5+ year",
+    experience: "1.5+ years",
   },
   {
     icon: <SiDataiku   className="text-4xl text-cyan-500 lg:text-5xl" />,
     name: "Data Science",
-    experience: "1.5+ year",
+    experience: "1.5+ years",
   }
 ];
 

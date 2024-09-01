@@ -22,3 +22,9 @@ These web pages will utilize a variety of modern web technologies, including:
 ## Contribute
 
 Feel free to explore the projects and provide feedback or suggestions. I'm always looking to improve and grow! 😊
+
+## Deployed Projects
+
+### First Project
+
+[text](https://tanmaya-sahu-portfolio-74a70d.netlify.app/)
