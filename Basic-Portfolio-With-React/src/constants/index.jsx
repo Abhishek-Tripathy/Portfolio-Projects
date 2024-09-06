@@ -200,7 +200,7 @@ export const EXPERIENCES = [
 export const EDUCATION = [
   {
     degree: "Data Science & Machine Learning Certification",
-    institution: "Biju Patnaik University of Technology",
+    institution: "Nimble Tech, Bhubaneswar",
     duration: "Jan 2023 - July 2023",
     description:
       "I completed a certification in Data Science and Machine Learning from Nimble Tech, where I gained skills in data preprocessing, feature engineering, and model building. The program equipped me with the ability to apply machine learning algorithms to solve real-world problems and enhance predictive accuracy.",
