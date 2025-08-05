@@ -176,10 +176,17 @@ export const SKILLS = [
 export const EXPERIENCES = [
   {
     title: "Data Analyst",
-    company: "Boostr Netwave Solutions Pvt. Ltd.",
-    duration: "July 2023 - Present",
+    company: "Flipkart Internet Pvt. Ltd.",
+    duration: "Nov 2024 - Present",
     description:
-      "As As a Data Analyst at Boostr Netwave Solutions Pvt. Ltd., I analyzed and interpreted complex datasets to provide actionable insights. I performed data cleaning, exploratory data analysis, and created dashboards using Power BI and Excel. I collaborated with teams to deliver customized data solutions and contributed to predictive modeling to forecast trends. Additionally, I managed and organized data to ensure accuracy and reliability. ",
+      "As a Data Analyst specializing in Last Mile operations for India's West region, I analyzed and interpreted logistics data to drive actionable insights. I utilized Advanced Excel for detailed analysis, including trend tracking, performance metrics, and data-driven recommendations. I developed and maintained Power BI dashboards to monitor Last Mile performance, identify areas of improvement, and enhance operational visibility. In collaboration with cross-functional teams, including Area and Regional Managers, I streamlined communication channels, achieving a 95% task completion rate on pending deliveries. My efforts resulted in a 25% reduction in delivery delays by resolving key operational challenges and optimizing service efficiency. Additionally, I leveraged Python automation to streamline repetitive tasks, improve data processing efficiency, and reduce manual effort. My contributions enhanced logistics efficiency, boosted customer satisfaction, and ensured overall operational productivity.",
+  },
+  {
+    title: "Data Analyst",
+    company: "Boostr Netwave Solutions Pvt. Ltd.",
+    duration: "July 2023 - Oct 2024",
+    description:
+      "As a Data Analyst at Boostr Netwave Solutions Pvt. Ltd., I analyzed and interpreted complex datasets to provide actionable insights. I performed data cleaning, exploratory data analysis, and created dashboards using Power BI and Excel. I collaborated with teams to deliver customized data solutions and contributed to predictive modeling to forecast trends. Additionally, I managed and organized data to ensure accuracy and reliability. ",
   },
   {
     title: "Author|Editor",
